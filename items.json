@@ -1,0 +1,23 @@
+[
+  {
+    "item_id": "1",
+    "item_name": "Notebook",
+    "category": "Stationary",
+    "location_found": "Room 401",
+    "status": "Unclaimed"
+  },
+  {
+    "item_id": "2",
+    "item_name": "Pen",
+    "category": "Stationary",
+    "location_found": "Room 410",
+    "status": "Unclaimed"
+  },
+  {
+    "item_id": "3",
+    "item_name": "Phone",
+    "category": "Electronics",
+    "location_found": "First Floor Chillzone",
+    "status": "Claimed"
+  }
+]
